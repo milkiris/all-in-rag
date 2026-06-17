@@ -1,0 +1,36 @@
+{
+    "queries": {
+        "3f926126-46f7-4003-9fd1-b08b6cd4ead2": "Based solely on the provided context information, here are 10 diverse questions for a quiz/examination.",
+        "53be7a53-6357-408c-98a8-1f0becfdf01d": "What is the full title of Chapter 3 in the IPCC AR6 WGII report?",
+        "b2128994-1a9a-47ce-8c34-88806ca8392c": "Who are the two Coordinating Lead Authors of this chapter, and what are their respective countries of affiliation?",
+        "7519dfe9-f8db-4971-b00f-a92cbb6dff52": "List the names of three Lead Authors who contributed to this chapter.",
+        "8fb9a29b-7187-445f-aae7-0bd42105821f": "What is the specific page range (e.g., pp. 379\u2013550) for this chapter in the published report?",
+        "1ab59459-934b-46c1-8c80-b217acb78fab": "According to the citation, which organization published this chapter?",
+        "59550ed6-884a-46dc-b342-e37ebae6550d": "Name one Contributing Author who is affiliated with an institution in Japan.",
+        "82ed5ec5-160e-455e-93b7-2057dcc72586": "What is the unique digital identifier (doi) assigned to this chapter?",
+        "ab2d8fa6-162f-4544-92dd-9131463bc279": "Identify the two Review Editors for this chapter and their respective countries.",
+        "de840d84-242a-44d6-b288-93cfe188841d": "Who served as the Chapter Scientist for this document?",
+        "35baf531-3db0-4057-9b8b-f704bb690943": "Based on the file metadata, what is the file size of the PDF document containing this chapter?",
+        "b95e8d30-1f70-4e71-87aa-fc537fe05d33": "Based solely on the provided context information, here are 10 diverse questions for a quiz/examination:",
+        "16f289ef-68f8-402b-91c4-75513c9b7db4": "What is the title of Chapter 3 in the provided document?",
+        "a3eb3f4c-7194-4228-b5d0-8b4150f6a8e2": "According to the table of contents, which section discusses \"Observed Trends and Projections of Climatic Impact-Drivers in the Global Ocean\"?",
+        "4a45b5b0-2dff-487b-8130-cec9eb3abf8e": "What is the page number for the \"Executive Summary\" of this chapter?"
+    },
+    "responses": {
+        "3f926126-46f7-4003-9fd1-b08b6cd4ead2": "Based solely on the provided context information, here are 10 diverse questions for a quiz/examination:\n\n1.  What is the page number of the chapter titled \"Oceans and Coastal Ecosystems and Their Services\"?\n2.  What is the file name of the document from which this context is taken?\n3.  Who are the Coordinating Lead Authors of this chapter?\n4.  Which country is listed as the affiliation for the Lead Author Wolfgang Kiessling?\n5.  How many Contributing Authors are listed for this chapter?\n6.  What is the doi (digital object identifier) provided for this chapter?\n7.  Who are the Review Editors for this chapter?\n8.  Which Contributing Author is affiliated with Nepal?\n9.  What is the last name of the Chapter Scientist?\n10. In what year was the file last modified, according to the provided metadata?",
+        "53be7a53-6357-408c-98a8-1f0becfdf01d": "Based solely on the provided context, the full title of Chapter 3 is \"Oceans and Coastal Ecosystems and Their Services.\"",
+        "b2128994-1a9a-47ce-8c34-88806ca8392c": "Based solely on the provided context, the two Coordinating Lead Authors of this chapter are Sarah R. Cooley (USA) and David S. Schoeman (Australia).",
+        "7519dfe9-f8db-4971-b00f-a92cbb6dff52": "Based solely on the provided context, three Lead Authors who contributed to this chapter are:\n\n- Laurent Bopp (France)\n- Philip Boyd (Australia/UK)\n- Simon Donner (Canada)",
+        "8fb9a29b-7187-445f-aae7-0bd42105821f": "Based solely on the context information provided, the specific page range for this chapter is **pp. 379\u2013550**.",
+        "1ab59459-934b-46c1-8c80-b217acb78fab": "According to the citation, the chapter was published by the Intergovernmental Panel on Climate Change.",
+        "59550ed6-884a-46dc-b342-e37ebae6550d": "Based solely on the provided context, one Contributing Author affiliated with an institution in Japan is **Jorge Garc\u00eda Molinos**.",
+        "82ed5ec5-160e-455e-93b7-2057dcc72586": "Based solely on the context information provided, the unique digital identifier (doi) assigned to this chapter is:\n\ndoi:10.1017/9781009325844.005",
+        "ab2d8fa6-162f-4544-92dd-9131463bc279": "Based solely on the provided context, the two Review Editors for this chapter are:\n\n- Karim Hilmi (Morocco)\n- Lisa Levin (USA)",
+        "de840d84-242a-44d6-b288-93cfe188841d": "Based solely on the provided context, the Chapter Scientist for this document was Jessica Bolin (Australia).",
+        "35baf531-3db0-4057-9b8b-f704bb690943": "Based on the file metadata, the file size is 21752444 bytes.",
+        "b95e8d30-1f70-4e71-87aa-fc537fe05d33": "Based solely on the provided context information, here are 10 diverse questions for a quiz/examination:\n\n1.  What is the title of Chapter 3?\n2.  On which page does the Executive Summary for Chapter 3 begin?\n3.  What is the file name of the source document for this chapter?\n4.  What is the topic of FAQ 3.1?\n5.  According to the table of contents, which section covers \"Observed Trends and Projections of Climatic Impact-Drivers in the Global Ocean\"?\n6.  What is the subject of Box 3.1?\n7.  Which section number discusses \"Coastal Ecosystems and Seas\"?\n8.  What is the topic of FAQ 3.2?\n9.  On which page does the section \"Oceanic Systems and Cross-Cutting Changes\" begin?\n10. What is the subject of Box 3.2?",
+        "16f289ef-68f8-402b-91c4-75513c9b7db4": "Based solely on the context information provided, the title of Chapter 3 is \"Oceans and Coastal Ecosystems and Their Services.\"",
+        "a3eb3f4c-7194-4228-b5d0-8b4150f6a8e2": "According to the table of contents, section **3.2** discusses \"Observed Trends and Projections of Climatic Impact-Drivers in the Global Ocean.\"",
+        "4a45b5b0-2dff-487b-8130-cec9eb3abf8e": "Based solely on the context information provided, the page number for the \"Executive Summary\" of this chapter is **381**."
+    }
+}
